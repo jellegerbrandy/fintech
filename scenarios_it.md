@@ -1,5 +1,12 @@
 # Il Futuro Glorioso della Blockchain ci Sorride 
 
+1. [Intro](#intro)
+1. [Scenari](#scenari)
+  1. [RISTOCOIN](#ristocoin)
+  1. [PARKCOIN](#parkcoin)
+  1. [La RevolutionCoin](#revolutioncoin)
+1. [Da vedere assolutamente prima di fare qualsiasi altra cosa](#ultimo)
+
 ## Intro
 
  * parole chiave: "blockchain", "fintech" (tecnologia finanziara), "smart contracts"
@@ -57,7 +64,7 @@ Per il comune le possibilità sono tantissimi.
 - Token per regolare il traffico - per esempio, creando spingendo una  reta di scambio di passaggi in macchina offrendo dei incentivi burocratici (per esempio, se hai 100 passaggio-coin, poi passare davanti nelle coda dell'anagrafe. O ricevi 2 parkcoin. Ecc.)
 
 
-## La RevolutionCoin [Per Edoardo]
+## <a id="revolutioncoin"></a>La RevolutionCoin [Per Edoardo] 
 
 Il *Partito* emette una moneta virtuale, il RevolutionCoin. 
 
@@ -109,7 +116,7 @@ Ad operazione conclusa con successo, il partito alle fine ha:
 [La coin di Torino, che la città usa per incentivare la cittadinanza a fare le cose giuste e tralasciare le cose sbagliate]
 
 
-# Da vedere assolutamente prima di fare qualsiasi altra cosa: 
+# <a id="ultimo"></a>Da vedere assolutamente prima di fare qualsiasi altra cosa: 
 
 [Tochain](http://www.tochain.org) "Portiamo la blockchain a Torino!"
 
