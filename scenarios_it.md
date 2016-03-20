@@ -61,45 +61,40 @@ Per il comune le possibilità sono tantissimi.
 
 Il *Partito* emette una moneta virtuale, il RevolutionCoin. 
 
-L'iscrizione al partito cosa 10 euro, ma non solo ricevi la tessera, il Partito ti regala anche 5 RevolutionCoin. 
+L'iscrizione al partito cosa 10 euro. Non ricevi solo la tessera, il Partito ti regala anche 5 RevolutionCoin. 
 
 I RevolutionCoin puoi usare, l'anno prossimo, per pagare la nuova tessare: ogni RC ti da 1 euro di sconto. 
 
 Questa è come una tipica campagna di fidelizzazione - vecchi tesserati avranno una sconto quando rinnovano la tessera.
 
-Vado con uno mia amica a mangiare un panino al bar, dividiamo il conto. Ma ho dimenticato il portafoglio.
-Invece di darla 5 euro, la offro i miei 5 RC. Visto che lei comunque intende a rinnovare la tessera l'anno prossimo, a lei gli RC servono, allora accetta.
+Vai con una amica a mangiare un panino al bar, dividete il conto. Ma hai dimenticato il portafoglio.
+Invece di darla 5 euro, offri i 5 RC. Visto che lei comunque intende a rinnovare la tessera l'anno prossimo, a lei gli RC servono, allora accetta.
 
 Il barista è un fedele del partito, e si rende conto che per lui, farsi pagare il caffè in Euro o in RC è uguale. 
 
-Anzi, per i compagni del partito offre il caffè che normalmente costa  E 1,20, per 1 RC. Un piccolo sconto simbolico. 
+Anzi, ai compagni del partito il barista offre il caffè che normalmente costa E 1,20, per 1 RC. Un piccolo sconto simbolico. 
 È una forma di pubblicità, di fidelizzazione per i clienti: così vengono a prendere il caffè da lui 
 
-Addeso, se paghi la tessera annuale a 10 euro, ricevi 5 RC, che valgono 5 caffè. 
 
-In termini reali, la tessera a te costa solo 4 euro (paghi 10 euro, ricevi 5 caffè ad 1,20 = 12 euro.)
+In termini reali, la tessera a te costa solo 4 euro (paghi 10 euro, ricevi 5 RC, che valgono come 5 caffè ad 1,20 = 6 euro.)
 
 Il Partito, invece? 
 
 Visto che la tessera può essere pagato in RC, se il numero di iscritti rimane uguale, entrerranno meno euro in cassa. 
-
 Ma è possibilissimo che verranno più iscritti - visto che tessarandoi guadagni 2 euro. Allora è altrettanto possibile che l'entrate in euro aumentano.
 
-Ma anche se il numero di iscritti non sale, le entrate che arrivano in RC invece di in euro non sono senza valore.  
-
-Anzi, si potrebbero vendere: 1 RC ti da diritto ad un caffè al Bar o ad un euro di sconto sulla tessera, allora un euro vale.
+Comunque, anche se il numero di iscritti non sale, le entrate che arrivano in RC invece di in euro non sono senza valore. 
+Anzi, si possono vendere: 1 RC ti da diritto ad un caffè al Bar o ad un euro di sconto sulla tessera, allora un euro vale.
 
 In pratica, il Partito si è creata la sua moneta personale. ("abbiamo una banca"! :-)
-
-E questo, se gestito con sagezzo, può essere una fonte di guadagno.
 
 Mettiamo che esistono 10.000 RC in totale - il Partito a dato 5.000 ai suoi 1.000 iscritti, ed ha tenuto 5.000 RC in cassa. Come abbiamo visto, questi 5.000 euro in cassa valgono più o meno 5.000 euro. Il partito si è creato 5.000 euro di valore "dal nulla" (o meglio: la rete dei suoi iscritto ha un valore, è il partito così è riuscito a materializzarne 5 mila euro)
 
 Ad operazione conclusa con successo, il partito alle fine ha:
 
-1. un mezzo di "fidelezizzazione" degli iscritto
+1. un mezzo di "fidelezizzazione" degli iscritti
 2. più iscritti
-3. un costo reale per gli iscritti più basso 
+3. un costo reale della tessara, per gli iscritti, più bassi (anche se il prezzo della tessare non è cambiata)
 4. 5.000 RevolutionCoin che valgono 5.000 euro
 
 (Questa la storia quando tutto va benino. Lo scenario senza successo è: tutti gli iscritti si tegnono gli RC in borsa, e pagano solo 5 euro per la tessare l'anno prossimo. Lo scenario da incubo è: arriva la guardia di finanza e ti accusa di trafficare in derivati.)
@@ -117,7 +112,6 @@ Ad operazione conclusa con successo, il partito alle fine ha:
 # Da vedere assolutamente prima di fare qualsiasi altra cosa: 
 
 [Tochain](http://www.tochain.org) "Portiamo la blockchain a Torino!"
-
 
 
 
