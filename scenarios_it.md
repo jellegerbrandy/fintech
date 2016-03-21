@@ -105,7 +105,7 @@ A operazione conclusa con successo, il partito alla fine ha:
 3. un costo reale della tessera, per gli iscritti, più basso (anche se il prezzo della tessera non è cambiato)
 4. 5.000 RevolutionCoin che valgono 5.000 euro
 
-(Questa la storia quando tutto va benino. Lo scenario senza successo è: tutti gli iscritti si tegnono i RC in borsa e pagano solo 5 euro per la tessera l'anno prossimo. Lo scenario da incubo è: arriva la guardia di finanza e ti accusa di trafficare in derivati.)
+(Questa la storia quando tutto va benino. Lo scenario senza successo è: tutti gli iscritti si tengono i RC in borsa e pagano solo 5 euro per la tessera l'anno prossimo. Lo scenario da incubo è: arriva la guardia di finanza e ti accusa di trafficare in derivati.)
 
 
 ## BABYCOIN
@@ -114,7 +114,7 @@ A operazione conclusa con successo, il partito alla fine ha:
 
 ## TOCOIN
 
-[La coin di Torino, che la città usa per incentivare la cittadinanza a fare le cose giuste e tralasciare le cose sbagliate]
+[Il coin di Torino, che la città usa per incentivare la cittadinanza a fare le cose giuste e tralasciare le cose sbagliate]
 
 
 # <a id="ultimo"></a>Da vedere assolutamente prima di fare qualsiasi altra cosa: 
