@@ -11,7 +11,7 @@
 ## Intro
 
  * parole chiave: "blockchain", "fintech" (tecnologia finanziara), "smart contracts"
- * molto Hype; investimenti + di un miliardo di dollari, "È come l'inizio dell'internet",
+ * molto Hype; investimenti + di un miliardo di dollari, "È come l'inizio di internet",
 
 per l'utente non-tecnico:
 
