@@ -89,14 +89,14 @@ In termini reali, la tessera a te costa solo 4 euro (paghi 10 euro, ricevi 5 RC,
 Il partito, invece? 
 
 Visto che la tessera può essere pagata in RC, se il numero di iscritti rimane uguale, entreranno meno euro in cassa. 
-Ma è possibilissimo che vengano più iscritti - visto che tesserando guadagni 2 euro. Allora è altrettanto possibile che le entrate in euro aumentino.
+Ma è possibilissimo che vengano più iscritti - visto che la tessera costa solo 4 Euro invece di 10. Allora è altrettanto possibile che le entrate in euro aumentino.
 
 Comunque, anche se il numero di iscritti non sale, le entrate che arrivano in RC invece che in euro non sono senza valore. 
 Anzi, si possono vendere: 1 RC ti dà diritto a un caffè al bar o a un euro di sconto sulla tessera, allora un euro vale.
 
 In pratica, il partito si è creato la sua moneta personale. ("abbiamo una banca"! :-)
 
-Mettiamo che esistano 10.000 RC in totale - il partito ha dato 5.000 ai suoi 1.000 iscritti, e ha tenuto 5.000 RC in cassa. Come abbiamo visto, questi 5.000 euro in cassa valgono più o meno 5.000 euro. Il partito si è creato 5.000 euro di valore "dal nulla" (o meglio: la rete dei suoi iscritti ha un valore, e il partito così è riuscito a materializzare 5 mila euro)
+Mettiamo che esistano 10.000 RC in totale - il partito ha dato 5.000 ai suoi 1.000 iscritti, e ha tenuto 5.000 RC in cassa. Come abbiamo visto, questi 5.000 RC in cassa valgono più o meno 5.000 euro. Il partito si è creato 5.000 euro di valore "dal nulla" (o meglio: la rete dei suoi iscritti ha un valore, e il partito così è riuscito a materializzare 5 mila euro)
 
 A operazione conclusa con successo, il partito alla fine ha:
 
