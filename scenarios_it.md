@@ -1,5 +1,6 @@
 # Il Futuro Glorioso della Blockchain ci Sorride 
 
+
 1. [Intro](#intro)
 1. [Scenari](#scenari)
   1. [RISTOCOIN](#ristocoin)
